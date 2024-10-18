@@ -4,17 +4,8 @@
  */
 package proyecto01;
 
-/**
- *
- * @author IK
- */
-public class Proyecto01 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+public claass Main {
+  public static void main(Sting args[]){
+   System.out.println("Ejemplo basico de java versionado a traves de Git manejado desde GitHub Creado por <Dostin89> ");
+ }
 }
